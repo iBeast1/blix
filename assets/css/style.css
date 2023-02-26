@@ -4,7 +4,7 @@
 # General
 ----------------------------------------------------------*/
 body {
-  font-family: "Lucida Calligraphy" , sans-serif;
+  font-family: "Raleway" , sans-serif;
   color: #444444;
 }
 
@@ -25,7 +25,7 @@ h4,
 h5,
 h6,
 .font-primary {
-  font-family: "Californian FB", sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -43,7 +43,7 @@ h6,
 }
 #header .logo .nav-menu ul>a{
   font-style: normal;
-  font-family: "Lucida Calligraphy";
+  font-family: "Raleway";
 }
 
 #header .logo h1 {
@@ -202,7 +202,7 @@ h6,
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Lucida Calligraphy", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #884922;
@@ -527,7 +527,7 @@ h6,
 }
 
 #hero .php-email-form button[type=submit] {
-  font-family: "Lucida Calligraphy", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -693,7 +693,7 @@ section {
   text-align: center;
 }
 .why-us .card-text span {
-  font-family:"Lucida Calligraphy";
+  font-family:"Raleway";
 }
 .why-us .card-title a {
   color: green;
@@ -792,7 +792,7 @@ section {
 }
 
 #contact .info p {
-  font-family: "Lucida Calligraphy";
+  font-family: "Raleway";
   font-weight: bold;
   padding: 0 0 10px 50px;
   margin-bottom: 20px;
@@ -824,7 +824,7 @@ section {
 }
 
 #contact input::placeholder , textarea{
-  font-family: "Lucida Calligraphy";
+  font-family: "Raleway";
 }
 
 #contact .php-email-form .error-message {
